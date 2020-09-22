@@ -1,4 +1,4 @@
-# Welcome to my Snake Game
+# Welcome to my Snake Game <img src="images/icon.png" width="40" height="35"/>
 Being a 90s kid this game is very close to my heart, which is the same for all the 90s generation out there.
 
 I wanted to make this game my own and in process widen my skill and knowledge about python modules.
