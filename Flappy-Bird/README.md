@@ -1,4 +1,4 @@
-# Flappy-Bird <img src="/Assets/Images/icon.ico" width="40" height="35"/>
+# Flappy-Bird <img src="Flappy-Bird/Assets/Images/icon.ico" width="40" height="35"/>
 I was able to recreate the classic Flappy Bird in python using `pygame` module
 
 ## Screenshots
