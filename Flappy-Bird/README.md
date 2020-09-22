@@ -2,7 +2,7 @@
 I was able to recreate the classic Flappy Bird in python using `pygame` module
 
 ## Screenshots
-![Game Play](/Screenshots/Game.png) ![Game Over](/Screenshots/GameOver.png)
+![Game Play](/Flappy-Bird/Screenshots/Game.png) ![Game Over](/Flappy-Bird/Screenshots/GameOver.png)
 
 ## Controls
 - `Space Bar` to Jump
