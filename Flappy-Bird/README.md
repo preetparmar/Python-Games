@@ -1,8 +1,8 @@
 # Flappy-Bird <img src="Assets/Images/bluebird-midflap.png" width="40" height="35"/>
 I was able to recreate the classic Flappy Bird in python using `pygame` module
 
-## Screenshots
-![Game Play](/Flappy-Bird/Screenshots/Game.png) ![Game Over](/Flappy-Bird/Screenshots/GameOver.png)
+## Gameplay
+![Game Play](/Flappy-Bird/Assets/Images/gameplay.gif)
 
 ## Controls
 - `Space Bar` to Jump
