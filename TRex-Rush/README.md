@@ -2,7 +2,7 @@
 The famous Dino Game in `Python` using `PyGame`
 
 ## Gameplay
-![Game Play](/TRex-Rush/Assests/Images/gameplay.gif)
+![Game Play](/TRex-Rush/Assets/Images/gameplay.gif)
 
 ## Controls
 - `Space Bar` to Jump
