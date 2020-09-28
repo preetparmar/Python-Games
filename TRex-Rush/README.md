@@ -1,8 +1,8 @@
-# Flappy-Bird <img src="Assets/Images/bluebird-midflap.png" width="40" height="35"/>
-I was able to recreate the classic Flappy Bird in python using `pygame` module
+# T-REX RUSH <img src="Assets/Images/logo.png" width="40" height="35"/>
+The famous Dino Game in `Python` using `PyGame`
 
-## Screenshots
-![Game Play](/Flappy-Bird/Screenshots/Game.png) ![Game Over](/Flappy-Bird/Screenshots/GameOver.png)
+## Gameplay
+![Game Play](/TRex-Rush/Assests/Images/gameplay.gif)
 
 ## Controls
 - `Space Bar` to Jump
