@@ -1,4 +1,4 @@
-# T-REX RUSH <img src="Assets/Images/logo.png" width="40" height="35"/>
+# T-REX RUSH
 The famous Dino Game in `Python` using `PyGame`
 
 ## Gameplay
@@ -6,6 +6,8 @@ The famous Dino Game in `Python` using `PyGame`
 
 ## Controls
 - `Space Bar` to Jump
+- `Down` to duck
+- If `Down` is pressed while jumping it will descend quicker
 - Press `Q` or `Escape` to quit the game anytime
 
 ## About me
