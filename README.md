@@ -6,6 +6,7 @@ I was able to recreate some games in python:
 - [Flappy Bird](https://github.com/preetparmar/Python-Games/tree/master/Flappy-Bird)
 - [T-Rex Rush](https://github.com/preetparmar/Python-Games/tree/master/TRex-Rush)
 - [Blackjack](https://github.com/preetparmar/Python-Games/tree/master/Blackjack)
+- [Asteroid Clash](https://github.com/preetparmar/Python-Games/tree/master/Asteroid%20Clash)
 
 # Libraries Used
 

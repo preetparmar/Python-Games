@@ -1,4 +1,6 @@
-# Asteroid Clash <img src="Assets/Images/bluebird-midflap.png" width="40" height="35"/>
+# Asteroid Clash
+
+<!-- <img src="Assets/Images/bluebird-midflap.png" width="40" height="35"/> -->
 
 I recreated the classic game Asteroid using Pygame and OOPs concept in python
 
