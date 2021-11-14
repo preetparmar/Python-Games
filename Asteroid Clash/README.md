@@ -6,7 +6,7 @@ I recreated the classic game Asteroid using Pygame and OOPs concept in python
 
 ## Screnshot
 
-![Game Play](/assets/screenshot/screenshot.png)
+<img src="assets/screenshot/screenshot.png" width="100" height="50"/>
 
 ## Controls
 
